@@ -1,7 +1,7 @@
 ## 🍿 !notifs 
 <p align="center"> 
     <a href="#">
-        <img title="spotify-github-profile" alt="spotify" src="view.svg"/></a>
+        <img title="spotify-github-profile" alt="spotify" src="11;11.svg"/></a>
         <!--https://spotify-github-profile.kittinanx.com/api/view?uid=312vprgbiy5vh2vocqkmqv6jjlli&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false
     https://spotify-github-profile.kittinanx.com/api/view?uid=312vprgbiy5vh2vocqkmqv6jjlli&redirect=true-->
     
