@@ -1,3 +1,3 @@
 
 ## snake eating my contribution graph
-![snake gif](https://github.com/osiristape/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/osiristape/osiristape/blob/output/github-contribution-grid-snake-dark.svg)
