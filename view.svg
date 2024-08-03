@@ -9,7 +9,7 @@
       .container {
         background-color: #121212;
         border-radius: 10px;
-
+        align: center;
         padding: 10px 10px
       }
 
