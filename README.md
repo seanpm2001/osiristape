@@ -1,4 +1,4 @@
-![](https://github.com/osiristape/profile_gitbug.png)
+![](https://github.com/osiristape/osiristape/blob/main/profile_gitbug_optimized.png)
 
 ## About Me
 
