@@ -1,3 +1,29 @@
+![Picture2](https://github.com/osiristape/profile_gitbug.png)
+
+## About Me
+
+## Personal Information
+- **Name:** Alexandra Acedo
+- **Also known as:** lexie, ルキアラ, osiristape
+- **Location:** Biñan , Laguna 
+- **Contact:** 
+  - **Email:** amgacedo@gmail.com
+
+## Education
+- **Degree:** Bachelor of Science in Computer Science (Undergraduate)
+- **Institution:** La Consolacion College Biñan 
+
+## Skills
+- [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+
+
+## Hobbies and Interests
+- Sleeping 💤
+- Listening To Music 🎧
+
+## Motto
+**❝ Disadvantages Over Advantages ❞**
+
 ## 🍿 !notifs 
 <p align="center"> 
     <a href="#">
