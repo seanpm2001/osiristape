@@ -5,7 +5,7 @@
 ## Personal Information
 - **Name:** Alexandra Acedo
 - **Also known as:** lexie, Rukiara Yamashita, _@osiristape_
-- **Location:** Biñan , Laguna 
+- **Location:** Biñan, Laguna 
 - **Contact:** 
   - **Email:** amgacedo@gmail.com
 
