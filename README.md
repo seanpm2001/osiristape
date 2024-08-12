@@ -2,10 +2,13 @@
 <img title="chickcoach" width="50%" height="50%" src="https://github.com/osiristape/osiristape/blob/main/a3461e5b-c5a9-4231-8b95-b4dd37da2819.sketchpad%20(2).png"/>
 </p>
 
----
+##
+
 ![](https://github.com/osiristape/osiristape/blob/main/profile_gitbug_optimized.png)
 
 ## About Me
+ 
+<h6 align="center"> An introverted student who dwells in a nightmare filled with an urge to unveil every door of the afterlife never ends; instead of dying in dooms of hopelessness, savor the demons that live within. </h6>
 
 ## Personal Information
 - **Name:** Alexandra Acedo
@@ -16,7 +19,11 @@
 
 ## Education
 - **Degree:** Bachelor of Science in Computer Science (Undergraduate)
-- **Institution:** La Consolacion College Biñan 
+- **Institution:** La Consolacion College Biñan
+  
+**Others:**
+- CSU extended learning via IT Masters specializing in cybersecurity field.
+- MTF Institute: Project Management
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,python,)](https://skillicons.dev)
@@ -24,7 +31,7 @@
 
 ## Hobbies and Interests
 - Sleeping 💤
-- Listening To Music 🎧
+- Listening To Music 🎧 
 
 ## Motto
 **❝ Disadvantages Over Advantages ❞**
