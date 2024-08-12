@@ -30,7 +30,8 @@
 
 ## Hobbies and Interests
 - Sleeping 💤
-- Listening To Music 🎧 
+- Listening To Music 🎧
+- finding my hoe from 2006 
 
 ## Motto
 **❝Disadvantages Over Advantages❞**
