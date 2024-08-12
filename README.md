@@ -1,3 +1,8 @@
+<p align="center">
+<img title="spotify-github-profile" alt="spotify" src="https://github.com/osiristape/osiristape/blob/main/a3461e5b-c5a9-4231-8b95-b4dd37da2819.sketchpad%20(1).png"/>
+</p>
+
+---
 ![](https://github.com/osiristape/osiristape/blob/main/profile_gitbug_optimized.png)
 
 ## About Me
