@@ -14,8 +14,8 @@
 - **Name:** Alexandra Acedo
 - **Also known as:** lexie, Rukiara Yamashita, _@osiristape_
 - **Location:** Biñan, Laguna 
-- **Contact:** 
-  - **Email:** amgacedo@gmail.com
+- **Email:** amgacedo@gmail.com
+- **MBTI:** INTP-J
 
 ## Education
 - **Degree:** Bachelor of Science in Computer Science (Undergraduate)
@@ -28,13 +28,12 @@
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,python,)](https://skillicons.dev)
 
-
 ## Hobbies and Interests
 - Sleeping 💤
 - Listening To Music 🎧 
 
 ## Motto
-**❝ Disadvantages Over Advantages ❞**
+**❝Disadvantages Over Advantages❞**
 
 ## 🍿 !notifs 
 <p align="center"> 
