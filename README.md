@@ -1,5 +1,5 @@
 <p align="center">
-<img title="spotify-github-profile" alt="spotify" src="https://github.com/osiristape/osiristape/blob/main/a3461e5b-c5a9-4231-8b95-b4dd37da2819.sketchpad%20(1).png"/>
+<img title="chickcoach" width="50%" height="50%" src="https://github.com/osiristape/osiristape/blob/main/a3461e5b-c5a9-4231-8b95-b4dd37da2819.sketchpad%20(2).png"/>
 </p>
 
 ---
