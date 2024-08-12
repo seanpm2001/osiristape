@@ -59,5 +59,5 @@
   
 ## 
 <p align="center"> 
-<img title="testing" alt="memes" src="imginsert.png"/>
+<img title="testing" alt="memes" width="70%" height="70%" src="imginsert.png"/>
 </p>
