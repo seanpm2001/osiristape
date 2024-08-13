@@ -32,7 +32,7 @@
 ## Hobbies and Interests
 - Sleeping 💤
 - Listening To Music 🎧
-- finding my hoe from 2006 
+- foundya
 
 ## Motto
 **❝Disadvantages Over Advantages❞**
