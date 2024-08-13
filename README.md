@@ -32,7 +32,6 @@
 ## Hobbies and Interests
 - Sleeping 💤
 - Listening To Music 🎧
-- foundya
 
 ## Motto
 **❝Disadvantages Over Advantages❞**
