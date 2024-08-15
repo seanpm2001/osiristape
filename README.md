@@ -4,10 +4,9 @@
 </p>
 
 ![](https://github.com/osiristape/osiristape/blob/main/profile_gitbug_optimized.png)
-
-## About Me
+## <img src="com - unscreen.gif" height="2%" width="2%"/> About Me 
  
-<h6 align="center"> An introverted student who dwells in a nightmare filled with an urge to unveil every door of the afterlife never ends; instead of dying in dooms of hopelessness, savor the demons that live within. </h6>
+<h6 align="center"> An introverted student who dwells in a nightmare filled with an urge to unveil every door of the afterlife never ends; instead of dying in dooms of hopelessness, savor the demons that live within. </h6> 
 
 ## Personal Information
 - **Name:** Alexandra Acedo
