@@ -51,11 +51,15 @@
 </div>
 
 ## 📊 My Github Stats
+<div align="center">
+ 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osiristape&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=osiristape&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=osiristape&theme=github_dark&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=osiristape&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=osiristape&theme=github_dark)
+ 
+</div>
 
 <p align="center"> 
 <picture>
