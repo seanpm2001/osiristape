@@ -3,7 +3,7 @@
 <img title="chickcoach" width="50%" height="50%" src="https://github.com/osiristape/osiristape/blob/main/a3461e5b-c5a9-4231-8b95-b4dd37da2819.sketchpad%20(2).png"/>
 </p>
 
-##
+
 
 ![](https://github.com/osiristape/osiristape/blob/main/profile_gitbug_optimized.png)
 
@@ -35,7 +35,7 @@
 - Listening To Music 🎧
 
 ## Motto
-**❝Disadvantages Over Advantages❞**
+- **❝Disadvantages Over Advantages❞**
 
 ## 🍿 !notifs 
 <p align="center"> 
@@ -74,4 +74,5 @@
 ## 
 <p align="center"> 
 <img title="testing" alt="memes" width="70%" height="70%" src="imginsert.png"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=false&section=footer"/>
 </p>
