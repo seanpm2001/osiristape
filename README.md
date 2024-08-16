@@ -25,6 +25,9 @@
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,python,)](https://skillicons.dev)
 
+## Achievements
+- [Proficient in Web Fundamentals](https://drive.google.com/file/d/1Ekvy-Rd6f9-tLlbyXbe2hLcT2uWrmu8c/view?usp=sharing)
+
 ## Hobbies and Interests
 - Sleeping 💤
 - Listening To Music 🎧
