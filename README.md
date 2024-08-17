@@ -1,3 +1,5 @@
+
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true"/><!--<img title="chickcoach" width="50%" height="50%" src="https://github.com/osiristape/osiristape/blob/main/a3461e5b-c5a9-4231-8b95-b4dd37da2819.sketchpad%20(2).png"/>--></p>
 
@@ -34,6 +36,7 @@
 
 ## Motto
 - **❝Disadvantages Over Advantages❞**
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 ## 🍿 !notifs 
 <p align="center"> 
@@ -43,11 +46,14 @@
     https://spotify-github-profile.kittinanx.com/api/view?uid=312vprgbiy5vh2vocqkmqv6jjlli&redirect=true-->
     
 </p>
+
 <div align="center">
     <a href="https://github.com/osiristape"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a> 
     <a href="https://instagram.com/osiris.tape"><img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /></a>
     <a href="https://www.youtube.com/@osiristape"><img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" /></a>  
 </div>
+
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 ## 📊 My Github Stats
 <div align="center">
@@ -59,6 +65,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=osiristape&theme=github_dark)
  
 </div>
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 ## ⛎ My Pet
 
@@ -68,7 +75,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/osiristape/osiristape/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/osiristape/osiristape/output/github-contribution-grid-snake.svg">
 </picture>
-  
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
 ## 💤
 <p align="center"> 
 <img title="testing" alt="memes" width="70%" height="70%" src="imginsert.png"/>
