@@ -1,14 +1,15 @@
 
 
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true"/><!--<img title="chickcoach" width="50%" height="50%" src="https://github.com/osiristape/osiristape/blob/main/a3461e5b-c5a9-4231-8b95-b4dd37da2819.sketchpad%20(2).png"/>--></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true"/><!--<img title="chickcoach" width="50%" height="50%" src="https://github.com/osiristape/osiristape/blob/main/a3461e5b-c5a9-4231-8b95-b4dd37da2819.sketchpad%20(2).png"/>--></p> 
+<img src="https://komarev.com/ghpvc/?username=osiristape&label=Profile%20views&color=0e75b6&style=flat" alt="osiristape" align="center" />
 
 ![](https://github.com/osiristape/osiristape/blob/main/profile_gitbug_optimized.png)
 ## About Me <img src="com - unscreen.gif" height="2%" width="2%"/>
- 
 <h6 align="center"> An introverted student who dwells in a nightmare filled with an urge to unveil every door of the afterlife never ends; instead of dying in dooms of hopelessness, savor the demons that live within. </h6> 
 
-## Personal Information
+## Personal Information  
 - **Name:** Alexandra Acedo
 - **Also known as:** lexie, Rukiara Yamashita, _@osiristape_
 - **Location:** Biñan, Laguna 
@@ -57,6 +58,8 @@
 
 ## 📊 My Github Stats
 <div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osiristape" alt="osiristape" /></a>
  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osiristape&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=osiristape&theme=github_dark)
