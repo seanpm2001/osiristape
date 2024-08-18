@@ -48,9 +48,7 @@
     https://spotify-github-profile.kittinanx.com/api/view?uid=312vprgbiy5vh2vocqkmqv6jjlli&redirect=true--
     </p>-->
 <div align="center">
-  <a href="https://open.spotify.com/user/312vprgbiy5vh2vocqkmqv6jjlli">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=312vprgbiy5vh2vocqkmqv6jjlli&count=7&unique=true" alt="Spotify recently played"/>
-  </a>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=312vprgbiy5vh2vocqkmqv6jjlli&count=7&unique=true" alt="Spotify recently played"/>
 </div> <br>
 
 <div align="center">
