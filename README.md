@@ -1,8 +1,7 @@
 
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true"/><!--<img title="chickcoach" width="50%" height="50%" src="https://github.com/osiristape/osiristape/blob/main/a3461e5b-c5a9-4231-8b95-b4dd37da2819.sketchpad%20(2).png"/>--></p> 
-
-[![](https://visitcount.itsvg.in/api?id=osiristape&icon=5&color=12)](https://visitcount.itsvg.in)
 
 ![](https://github.com/osiristape/osiristape/blob/main/profile_gitbug_optimized.png)
 ## About Me <img src="com - unscreen.gif" height="2%" width="2%"/>
@@ -39,13 +38,26 @@
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 ## 🍿 !notifs 
-<p align="center"> 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/osiristape/count.svg?"  />
+</div> <br>
+<!--<p align="center"> 
     <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=312vprgbiy5vh2vocqkmqv6jjlli&redirect=true">
         <img title="spotify-github-profile" alt="spotify" src="https://spotify-github-profile.kittinanx.com/api/view?uid=312vprgbiy5vh2vocqkmqv6jjlli&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false"/></a>
-        <!--https://spotify-github-profile.kittinanx.com/api/view?uid=312vprgbiy5vh2vocqkmqv6jjlli&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false
-    https://spotify-github-profile.kittinanx.com/api/view?uid=312vprgbiy5vh2vocqkmqv6jjlli&redirect=true-->
-    
-</p>
+        --https://spotify-github-profile.kittinanx.com/api/view?uid=312vprgbiy5vh2vocqkmqv6jjlli&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false
+    https://spotify-github-profile.kittinanx.com/api/view?uid=312vprgbiy5vh2vocqkmqv6jjlli&redirect=true--
+    </p>-->
+<div align="center">
+  <a href="https://open.spotify.com/user/312vprgbiy5vh2vocqkmqv6jjlli">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=312vprgbiy5vh2vocqkmqv6jjlli&count=7&unique=true" alt="Spotify recently played"/>
+  </a>
+</div> <br>
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+
+</div> <br>
 
 <div align="center">
     <a href="https://github.com/osiristape"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a> 
@@ -93,12 +105,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=false&section=footer"/>
 </p>
 
-
-
-
-<div align = "center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
-</div>
 
