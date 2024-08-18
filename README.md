@@ -1,15 +1,13 @@
 
-
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true"/><!--<img title="chickcoach" width="50%" height="50%" src="https://github.com/osiristape/osiristape/blob/main/a3461e5b-c5a9-4231-8b95-b4dd37da2819.sketchpad%20(2).png"/>--></p> 
-<img src="https://komarev.com/ghpvc/?username=osiristape&label=Profile%20views&color=0e75b6&style=flat" alt="osiristape" align="center" />
+
 
 ![](https://github.com/osiristape/osiristape/blob/main/profile_gitbug_optimized.png)
-## About Me <img src="com - unscreen.gif" height="2%" width="2%"/>
+## About Me [![](https://visitcount.itsvg.in/api?id=osiristape&icon=5&color=12)](https://visitcount.itsvg.in)
 <h6 align="center"> An introverted student who dwells in a nightmare filled with an urge to unveil every door of the afterlife never ends; instead of dying in dooms of hopelessness, savor the demons that live within. </h6> 
 
-## Personal Information  
+## Personal Information <img src="com - unscreen.gif" height="2%" width="2%"/>
 - **Name:** Alexandra Acedo
 - **Also known as:** lexie, Rukiara Yamashita, _@osiristape_
 - **Location:** Biñan, Laguna 
@@ -59,15 +57,23 @@
 ## 📊 My Github Stats
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osiristape" alt="osiristape" /></a>
- 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osiristape&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=osiristape&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=osiristape&theme=github_dark&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=osiristape&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=osiristape&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osiristape&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=osiristape&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=osiristape&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=osiristape&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=osiristape&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
  
 </div>
+
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
+## 🏆 GitHub Trophies
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=osiristape&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+
+</div>
+
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 ## ⛎ My Pet
@@ -85,3 +91,10 @@
 <img title="testing" alt="memes" width="70%" height="70%" src="imginsert.png"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=false&section=footer"/>
 </p>
+
+<div align = "center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
+</div>
+
