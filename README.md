@@ -2,12 +2,13 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true"/><!--<img title="chickcoach" width="50%" height="50%" src="https://github.com/osiristape/osiristape/blob/main/a3461e5b-c5a9-4231-8b95-b4dd37da2819.sketchpad%20(2).png"/>--></p> 
 
+[![](https://visitcount.itsvg.in/api?id=osiristape&icon=5&color=12)](https://visitcount.itsvg.in)
 
 ![](https://github.com/osiristape/osiristape/blob/main/profile_gitbug_optimized.png)
-## About Me [![](https://visitcount.itsvg.in/api?id=osiristape&icon=5&color=12)](https://visitcount.itsvg.in)
+## About Me <img src="com - unscreen.gif" height="2%" width="2%"/>
 <h6 align="center"> An introverted student who dwells in a nightmare filled with an urge to unveil every door of the afterlife never ends; instead of dying in dooms of hopelessness, savor the demons that live within. </h6> 
 
-## Personal Information <img src="com - unscreen.gif" height="2%" width="2%"/>
+## Personal Information
 - **Name:** Alexandra Acedo
 - **Also known as:** lexie, Rukiara Yamashita, _@osiristape_
 - **Location:** Biñan, Laguna 
@@ -91,6 +92,9 @@
 <img title="testing" alt="memes" width="70%" height="70%" src="imginsert.png"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=false&section=footer"/>
 </p>
+
+
+
 
 <div align = "center">
   
