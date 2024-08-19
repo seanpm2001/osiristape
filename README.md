@@ -56,7 +56,7 @@
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 
-</div> <br>
+</div>
 
 <div align="center">
     <a href="https://github.com/osiristape"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a> 
