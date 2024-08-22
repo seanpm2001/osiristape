@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true"/><!--<img title="chickcoach" width="50%" height="50%" src="https://github.com/osiristape/osiristape/blob/main/a3461e5b-c5a9-4231-8b95-b4dd37da2819.sketchpad%20(2).png"/>--></p> 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true"/><!--<img title="chickcoach" width="50%" height="50%" src="https://github.com/osiristape/osiristape/blob/main/a3461e5b-c5a9-4231-8b95-b4dd37da2819.sketchpad%20(2).png"/> --></p> 
 
 ![](https://github.com/osiristape/osiristape/blob/main/profile_gitbug_optimized.png)
 ## About Me <img src="com - unscreen.gif" height="2%" width="2%"/>
