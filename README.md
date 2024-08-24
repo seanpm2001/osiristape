@@ -9,8 +9,6 @@
 
 ## Personal Information
 - **Name:** Alexandra Acedo
-- **Also known as:** lexie, Rukiara Yamashita, _@osiristape_
-- **Location:** Biñan, Laguna 
 - **Email:** amgacedo@gmail.com
 - **Date of Birth:** August 7, 2002
 - **MBTI:** INTP-J
