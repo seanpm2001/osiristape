@@ -61,8 +61,8 @@
   <br><br>
   
  <!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=312vprgbiy5vh2vocqkmqv6jjlli&count=10&unique=true&width=400" alt="Spotify recently played"/>
-</div> <br> -->
-
+ <br> -->
+</div>
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
