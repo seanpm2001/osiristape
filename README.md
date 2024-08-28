@@ -60,9 +60,10 @@
   <img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" /></a> 
   <br><br>
   
- <!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=312vprgbiy5vh2vocqkmqv6jjlli&count=10&unique=true&width=400" alt="Spotify recently played"/>
- <br> -->
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=312vprgbiy5vh2vocqkmqv6jjlli&count=10&unique=true&width=400" alt="Spotify recently played"/>
+
 </div>
+<br> 
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
