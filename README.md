@@ -12,6 +12,7 @@
 - **Email:** amgacedo@gmail.com
 - **Date of Birth:** August 7, 2002
 - **MBTI:** INTP-J
+- **Languages:** Filipino, English, Mandarin [HSK 5], Spanish
 
 ## Education
 - **Degree:** Bachelor of Science in Computer Science (Undergraduate)
