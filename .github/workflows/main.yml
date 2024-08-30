@@ -1,0 +1,37 @@
+name: Draw Pikachu
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  draw:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+
+    - name: Run the script
+      run: |
+        python pikachu.py
+        sudo apt-get install -y imagemagick
+        import -window root pikachu.png
+        mv pikachu.png ./docs/pikachu.png
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add docs/pikachu.png
+        git commit -m "Add Pikachu image"
+        git push
