@@ -1,10 +1,11 @@
 import turtle as t
+from PIL import Image
 
 def draw_pikachu():
+    # Set up screen and turtle
     screen = t.Screen()
     screen.setup(width=600, height=600)
-    screen.bgcolor("white")
-    
+ 
     # ... (rest of the code to draw Pikachu) ...
     # Ears
     t.penup()
@@ -102,13 +103,15 @@ def draw_pikachu():
     t.done()
 
 
+    # Finish drawing and save the image
     screen.getcanvas().postscript(file="pikachu.eps")  # Save as an EPS file
-    t.hideturtle()
+
+    # Convert EPS to PNG using Pillow
+    img = Image.open("pikachu.eps")
+    img.save("docs/pikachu.png")
+
+    # Clean up
+    t.bye()
 
 if __name__ == "__main__":
     draw_pikachu()
-
-def draw_pikachu():
-    t.bgcolor("white")
-    t.speed(9)
-    
