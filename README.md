@@ -28,6 +28,9 @@
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,cpp,java,python,php)](https://skillicons.dev)
 
+  ### Learning
+  [![Learning](https://skillicons.dev/icons?i=htmx,go,nextjs,dart,flutter)](https://skillicons.dev)
+
 ## Achievements
 - [Proficient in Web Fundamentals](https://drive.google.com/file/d/1Ekvy-Rd6f9-tLlbyXbe2hLcT2uWrmu8c/view?usp=sharing)
 
