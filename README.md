@@ -3,11 +3,11 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true"/><!--  <img title="chickcoach" width="50%" height="50%" src="https://github.com/osiristape/osiristape/blob/main/a3461e5b-c5a9-4231-8b95-b4dd37da2819.sketchpad%20(2).png"/>  --></p> 
 
-<a href="https://giphy.com/stickers/transparent-pokemon-pikachu-odKUQFwZfsGRI5ctD7">
-  <img src="https://media.giphy.com/media/odKUQFwZfsGRI5ctD7/giphy.gif" width="200" height="200" alt="Pikachu GIF"/></a>
-<!--![](https://github.com/osiristape/osiristape/blob/main/profile_gitbug_optimized.png)-->
+<!--<img src="https://media.giphy.com/media/odKUQFwZfsGRI5ctD7/giphy.gif" width="200" height="200" alt="Pikachu GIF"/></a>-->
 
-## About Me <img src="com - unscreen.gif" height="2%" width="2%"/>
+![Profile Image](https://github.com/osiristape/osiristape/blob/main/profile_gitbug_optimized.png)
+
+## About Me <img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" height="5%" width="5%"/>
 <h6 align="center"> An introverted student who dwells in a nightmare filled with an urge to unveil every door of the afterlife never ends; instead of dying in dooms of hopelessness, savor the demons that live within. </h6> 
 
 ## Personal Information
