@@ -1,35 +1,28 @@
-name: Draw Pikachu
-
-on:
-  push:
-    branches:
-      - main
-
-jobs:
-  draw:
-    runs-on: ubuntu-latest
-
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4  # Updated version
-
-    - name: Set up Python
-      uses: actions/setup-python@v4  # Updated version
-      with:
-        python-version: '3.x'
-
-    - name: Install dependencies
-      run: |
-        pip install pillow  # Install Pillow for image processing
-
-    - name: Run the script to draw Pikachu and save as PNG
-      run: python pikachu.py
-
-    - name: Commit and push the generated image
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add docs/pikachu.png
-        git commit -m "Add Pikachu image"
-        git push
- 
+drawing:
+  type: "pikachu"
+  parameters:
+    face:
+      color: "yellow"
+      radius: 100
+    eyes:
+      color: "black"
+      radius: 20
+      positions:
+        - x: -40
+          y: 0
+        - x: 40
+          y: 0
+    cheeks:
+      color: "red"
+      radius: 30
+      positions:
+        - x: -70
+          y: -30
+        - x: 70
+          y: -30
+    mouth:
+      start_position:
+        x: -30
+        y: -60
+      radius: 30
+      arc: 180
