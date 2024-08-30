@@ -1,44 +1,66 @@
-import turtle as t
-from PIL import Image
+import turtle
 
 def draw_pikachu():
-    # Set up screen and turtle
-    screen = t.Screen()
-    screen.setup(width=600, height=600)
+    # Set up the screen
+    screen = turtle.Screen()
+    screen.title("Pikachu Drawing")
+    screen.bgcolor("white")
 
-    
-    # Hide the turtle and speed up the drawing
-    t.hideturtle()
-    t.speed(9)
-    
-    # Example: Drawing Pikachu's head and ears (you can add more details)
-    t.penup()
-    t.goto(0, -100)
-    t.pendown()
-    t.color("yellow")
-    t.begin_fill()
-    t.circle(100)
-    t.end_fill()
+    # Create a turtle object
+    pikachu = turtle.Turtle()
+    pikachu.speed(3)
 
-    t.penup()
-    t.goto(-50, 50)
-    t.pendown()
-    t.begin_fill()
-    t.goto(-100, 150)
-    t.goto(0, 200)
-    t.goto(100, 150)
-    t.goto(50, 50)
-    t.end_fill()
-    
-    # Finish drawing and save the image
-    screen.getcanvas().postscript(file="pikachu.eps")  # Save as an EPS file
+    # Drawing Pikachu's face
+    pikachu.penup()
+    pikachu.goto(0, -100)
+    pikachu.pendown()
+    pikachu.color("yellow")
+    pikachu.begin_fill()
+    pikachu.circle(100)
+    pikachu.end_fill()
 
-    # Convert EPS to PNG using Pillow
-    img = Image.open("pikachu.eps")
-    img.save("docs/pikachu.png")
+    # Drawing Pikachu's eyes
+    pikachu.penup()
+    pikachu.goto(-40, 0)
+    pikachu.pendown()
+    pikachu.color("black")
+    pikachu.begin_fill()
+    pikachu.circle(20)
+    pikachu.end_fill()
 
-    # Clean up
-    t.bye()
+    pikachu.penup()
+    pikachu.goto(40, 0)
+    pikachu.pendown()
+    pikachu.begin_fill()
+    pikachu.circle(20)
+    pikachu.end_fill()
+
+    # Drawing Pikachu's cheeks
+    pikachu.penup()
+    pikachu.goto(-70, -30)
+    pikachu.pendown()
+    pikachu.color("red")
+    pikachu.begin_fill()
+    pikachu.circle(30)
+    pikachu.end_fill()
+
+    pikachu.penup()
+    pikachu.goto(70, -30)
+    pikachu.pendown()
+    pikachu.begin_fill()
+    pikachu.circle(30)
+    pikachu.end_fill()
+
+    # Drawing Pikachu's mouth
+    pikachu.penup()
+    pikachu.goto(-30, -60)
+    pikachu.pendown()
+    pikachu.right(90)
+    pikachu.circle(30, 180)
+
+    # Finish drawing
+    pikachu.hideturtle()
+    turtle.done()
 
 if __name__ == "__main__":
     draw_pikachu()
