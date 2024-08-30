@@ -32,3 +32,4 @@ jobs:
         git add docs/pikachu.png
         git commit -m "Add Pikachu image"
         git push
+ 
