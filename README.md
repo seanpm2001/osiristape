@@ -1,16 +1,17 @@
 <!-- <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true"/> <img title="chickcoach" width="50%" height="50%" src="https://github.com/osiristape/osiristape/blob/main/a3461e5b-c5a9-4231-8b95-b4dd37da2819.sketchpad%20(2).png"/> </p>  -->
 
-<!--<img src="https://media.giphy.com/media/odKUQFwZfsGRI5ctD7/giphy.gif" width="200" height="200" alt="Pikachu GIF"/></a> -->
+<!--<img src="https://media.giphy.com/media/odKUQFwZfsGRI5ctD7/giphy.gif" width="200" height="200" alt="Pikachu GIF"/></a>
 
-![Profile Image](https://github.com/osiristape/osiristape/blob/main/profile_gitbug_optimized.png)
+![Profile Image](https://github.com/osiristape/osiristape/blob/main/profile_gitbug_optimized.png) -->
+<img src="https://github.com/osiristape/osiristape/blob/main/anime_1858504493.png" height="20%" width="20%"/>
 
 ## About Me <img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" height="5%" width="5%"/>
 <h6 align="center"> An introverted student who dwells in a nightmare filled with an urge to unveil every door of the afterlife never ends; instead of dying in dooms of hopelessness, savor the demons that live within. </h6> 
 
 ## Personal Information
 - **Name:** Alexandra Acedo
-- **Email:** amgacedo@gmail.com
+- **Email:** osiristape@proton.me
 - **Date of Birth:** August 7, 2002
 - **MBTI:** INTP-J
 - **Languages:** Filipino, English, Mandarin [HSK 5], Spanish
@@ -37,7 +38,7 @@
 - Listening To Music 🎧
 
 ## Motto
-- **❝Disadvantages Over Advantages❞**
+- **"nadelen worden voordelen."**
 
 ## 🍿 !notifs 
 <div align="center">
