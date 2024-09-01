@@ -38,7 +38,6 @@
 
 ## Motto
 - **❝Disadvantages Over Advantages❞**
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 ## 🍿 !notifs 
 <div align="center">
@@ -75,7 +74,6 @@
 
 </div>
 
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 ## 📊 My Github Stats
 <div align="center">
@@ -88,7 +86,7 @@
  
 </div>
 
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
 
 ## 🏆 GitHub Trophies
 <div align="center">
@@ -97,7 +95,7 @@
 
 </div>
 
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
 
 ## ⛎ My Pet
 
@@ -107,7 +105,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/osiristape/osiristape/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/osiristape/osiristape/output/github-contribution-grid-snake.svg">
 </picture>
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
 
 ## 💤
 <p align="center"> 
