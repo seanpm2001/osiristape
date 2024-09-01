@@ -1,5 +1,5 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true"/><!--  <img title="chickcoach" width="50%" height="50%" src="https://github.com/osiristape/osiristape/blob/main/a3461e5b-c5a9-4231-8b95-b4dd37da2819.sketchpad%20(2).png"/>  --></p> 
+<!-- <p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true"/> <img title="chickcoach" width="50%" height="50%" src="https://github.com/osiristape/osiristape/blob/main/a3461e5b-c5a9-4231-8b95-b4dd37da2819.sketchpad%20(2).png"/> </p>  -->
 
 <!--<img src="https://media.giphy.com/media/odKUQFwZfsGRI5ctD7/giphy.gif" width="200" height="200" alt="Pikachu GIF"/></a> -->
 
@@ -87,7 +87,7 @@
 </div>
 
 
-
+<!--
 ### 🏆 GitHub Trophies
 <div align="center">
 
@@ -109,8 +109,9 @@
 
 ### 💤
 <p align="center"> 
-<img title="testing" alt="memes" width="70%" height="70%" src="imginsert.png"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=false&section=footer"/>
+<img title="testing" alt="memes" width="70%" height="70%" src="imginsert.png"/> -->
+  
+<!--<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=false&section=footer"/>-->
 </p>
 
 
