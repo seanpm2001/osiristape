@@ -5,17 +5,17 @@
 
 ![Profile Image](https://github.com/osiristape/osiristape/blob/main/profile_gitbug_optimized.png)
 
-## About Me <img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" height="5%" width="5%"/>
+### About Me <img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" height="5%" width="5%"/>
 <h6 align="center"> An introverted student who dwells in a nightmare filled with an urge to unveil every door of the afterlife never ends; instead of dying in dooms of hopelessness, savor the demons that live within. </h6> 
 
-## Personal Information
+### Personal Information
 - **Name:** Alexandra Acedo
 - **Email:** amgacedo@gmail.com
 - **Date of Birth:** August 7, 2002
 - **MBTI:** INTP-J
 - **Languages:** Filipino, English, Mandarin [HSK 5], Spanish
 
-## Education
+### Education
 - **Degree:** Bachelor of Science in Computer Science (Undergraduate)
 - **Institution:** La Consolacion College Biñan
   
@@ -23,23 +23,23 @@
 - CSU extended learning via IT Masters specializing in cybersecurity field.
 - MTF Institute: Project Management
 
-## Skills
+### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,cpp,java,python,php)](https://skillicons.dev)
 
-  ### Learning
+  #### Learning
   [![Learning](https://skillicons.dev/icons?i=htmx,go,nextjs,dart,flutter)](https://skillicons.dev)
 
-## Achievements
+### Achievements
 - [Proficient in Web Fundamentals](https://drive.google.com/file/d/1Ekvy-Rd6f9-tLlbyXbe2hLcT2uWrmu8c/view?usp=sharing)
 
-## Hobbies and Interests
+### Hobbies and Interests
 - Sleeping 💤
 - Listening To Music 🎧
 
-## Motto
+### Motto
 - **❝Disadvantages Over Advantages❞**
 
-## 🍿 !notifs 
+### 🍿 !notifs 
 <div align="center">
   <img src="https://profile-counter.glitch.me/osiristape/count.svg?"  />
 </div> <br>
@@ -75,7 +75,7 @@
 </div>
 
 
-## 📊 My Github Stats
+### 📊 My Github Stats
 <div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osiristape&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
@@ -88,7 +88,7 @@
 
 
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 <div align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=osiristape&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
@@ -97,7 +97,7 @@
 
 
 
-## ⛎ My Pet
+### ⛎ My Pet
 
 <p align="center"> 
 <picture>
@@ -107,7 +107,7 @@
 </picture>
 
 
-## 💤
+### 💤
 <p align="center"> 
 <img title="testing" alt="memes" width="70%" height="70%" src="imginsert.png"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=false&section=footer"/>
