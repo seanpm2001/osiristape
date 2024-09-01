@@ -5,17 +5,17 @@
 
 ![Profile Image](https://github.com/osiristape/osiristape/blob/main/profile_gitbug_optimized.png)
 
-### About Me <img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" height="5%" width="5%"/>
+## About Me <img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" height="5%" width="5%"/>
 <h6 align="center"> An introverted student who dwells in a nightmare filled with an urge to unveil every door of the afterlife never ends; instead of dying in dooms of hopelessness, savor the demons that live within. </h6> 
 
-### Personal Information
+## Personal Information
 - **Name:** Alexandra Acedo
 - **Email:** amgacedo@gmail.com
 - **Date of Birth:** August 7, 2002
 - **MBTI:** INTP-J
 - **Languages:** Filipino, English, Mandarin [HSK 5], Spanish
 
-### Education
+## Education
 - **Degree:** Bachelor of Science in Computer Science (Undergraduate)
 - **Institution:** La Consolacion College Biñan
   
@@ -23,23 +23,23 @@
 - CSU extended learning via IT Masters specializing in cybersecurity field.
 - MTF Institute: Project Management
 
-### Skills
+## Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,cpp,java,python,php)](https://skillicons.dev)
 
   #### Learning
   [![Learning](https://skillicons.dev/icons?i=htmx,go,nextjs,dart,flutter)](https://skillicons.dev)
 
-### Achievements
+## Achievements
 - [Proficient in Web Fundamentals](https://drive.google.com/file/d/1Ekvy-Rd6f9-tLlbyXbe2hLcT2uWrmu8c/view?usp=sharing)
 
-### Hobbies and Interests
+## Hobbies and Interests
 - Sleeping 💤
 - Listening To Music 🎧
 
-### Motto
+## Motto
 - **❝Disadvantages Over Advantages❞**
 
-### 🍿 !notifs 
+## 🍿 !notifs 
 <div align="center">
   <img src="https://profile-counter.glitch.me/osiristape/count.svg?"  />
 </div> <br>
@@ -54,28 +54,25 @@
 </div>
 
 <div align="center">
-  <img title="spotify-github-profile" alt="spotify" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=313hfc2beewahvywizatlu63l4f4&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false"/><br><br>
-  
+  <img title="spotify-github-profile" alt="spotify" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=313hfc2beewahvywizatlu63l4f4&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false"/><br>
   <a href="https://github.com/osiristape">
   <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a> 
   <a href="https://instagram.com/osiris.tape">
   <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /></a>
   <a href="https://www.youtube.com/@osiristape">
   <img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" /></a> 
-  <br><br>
   
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=312vprgbiy5vh2vocqkmqv6jjlli&count=10&unique=true&width=400" alt="Spotify recently played"/>
-
-</div>
-<br> 
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+  <!--
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=312vprgbiy5vh2vocqkmqv6jjlli&count=10&unique=true&width=400" alt="Spotify recently played"/> -->
 
 </div>
 
+<!-- <div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/> 
+</div> -->
 
-### 📊 My Github Stats
+
+## 📊 My Github Stats
 <div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osiristape&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
