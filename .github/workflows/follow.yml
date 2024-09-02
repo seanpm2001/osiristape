@@ -1,4 +1,4 @@
-name: follow 
+name: follow
 
 on:
   schedule:
