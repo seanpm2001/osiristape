@@ -1,0 +1,25 @@
+name: follow 
+
+on:
+  schedule:
+    # Run every day at midnight
+    - cron: '0 0 * * *'
+
+jobs:
+  follow_stargazers:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Follow stargazers
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # List the stargazers
+          curl -H "Authorization: token $GITHUB_TOKEN" https://api.github.com/repos/comfyanonymous/ComfyUI/stargazers \
+          | jq -r '.[].login' \
+          | while read user; do
+              # Follow the user
+              curl -X PUT -H "Authorization: token $GITHUB_TOKEN" https://api.github.com/user/following/$user;
+            done
